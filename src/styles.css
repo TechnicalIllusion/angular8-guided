@@ -1,4 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 .btn {
-    margin: 2px;
+    margin: 0 2px 0 2px;
+}
+
+#less-margin .btn {
+    margin: 0px;
+    border: none;
 }
